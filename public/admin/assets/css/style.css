@@ -1,0 +1,107 @@
+.fix-pageheader {
+	padding-left: 300px;
+}
+#rs-blog{
+	padding-top: 0;
+
+}
+.form-group button {
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.fix22 input{
+	width: 500px;
+	margin-top: 10px;
+}
+.fix22 label{
+	padding-top: 10px;
+}
+.fix-option{
+	width: 200px;
+}
+.fix-ckeditor {
+	width: 900px;
+}
+#cke_editor{
+	width: 1200px;
+}
+.header-container {
+	background-color: #242425;
+	height: 80px;
+}
+.fixradio input {
+	display: flex;
+}
+.fix-table thead tr  {
+	background: #333;
+}
+.fix-table thead tr th {
+	color: white;
+	font-size: 15px;
+}
+.fix-table tbody tr td {
+	font-size: 16px;
+}
+.fix-menu {
+	width: 280px;
+
+}
+.fix-images2 img {
+	width: 255px;
+	height: 170px;
+}
+.read-moree a{
+	color: black;
+	float: left;
+}
+.read-moree a:hover{
+	font-size: 18px;
+	color: red;
+}
+.read-moree {
+	margin-left: 0px;
+	display: inline-block;
+    color: #111111;
+    transition: all 0.4s ease 0s;
+    font-weight: 400;
+    background: transparent;
+    border: 2px solid #229696;
+    padding: 5px 16px;
+    border-radius: 2px;
+}
+.add-items {
+	margin-left: 0px;
+	display: inline-block;
+    color: #111111;
+    transition: all 0.4s ease 0s;
+    font-weight: 400;
+    background: transparent;
+    border: 2px solid #0dd00d;
+    padding: 5px 16px;
+    border-radius: 2px;
+    background-color: #0dd00d;
+    margin-left: 1000px;
+    position: relative;
+}
+.add-tittle {
+	height: 6px;
+	padding-top: 10px;
+}
+.add-tittle h2 {
+	position: absolute;
+	margin-left: 400px;
+}
+.add-items a {
+	color: white;
+	font-weight: bold;
+}
+.add-items a:hover {
+	color: #fff;
+	font-size: 17px;
+}
+.add-items2 a{
+	color: white;
+	font-weight: bold;
+	position: absolute;
+}
+
